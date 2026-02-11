@@ -1,16 +1,16 @@
 # Arthur Augusto
 
-Técnico em Engenharia de Edificações e Eletricista Predial com mais de 10 anos de experiência.
+Técnico em Engenharia de Edificações e Eletricista Predial com mais de 10 anos de experiência em sistemas prediais, manutenção e execução técnica.
 
-Atualmente em transição para a área de Tecnologia, cursando Análise e Desenvolvimento de Sistemas.
+Atualmente em transição para a área de Tecnologia, cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento de soluções em Python aplicadas à engenharia.
 
 ## 🎯 Objetivo Profissional
 
-Desenvolver soluções em Python voltadas para:
+Desenvolver sistemas voltados para:
 
 - Automação predial
 - Orçamento técnico automatizado
-- Gestão de planejamento técnico de obras
+- Planejamento e gestão de obras
 - Eficiência energética
 - IoT aplicada à engenharia
 
@@ -26,3 +26,4 @@ Desenvolver soluções em Python voltadas para:
 
 - Sistema PDV em Python (Streamlit + SQLite)
 - Em desenvolvimento: Sistema de Orçamento Técnico Automatizado
+
