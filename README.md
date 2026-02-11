@@ -10,7 +10,7 @@ Desenvolver soluções em Python voltadas para:
 
 - Automação predial
 - Orçamento técnico automatizado
-- Planejamento de obras
+- Gestão de planejamento técnico de obras
 - Eficiência energética
 - IoT aplicada à engenharia
 
