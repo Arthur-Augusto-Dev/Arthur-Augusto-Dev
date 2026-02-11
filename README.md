@@ -1,16 +1,28 @@
-## Hi there 👋
+# Arthur Augusto
 
-<!--
-**Arthur-Augusto-Dev/Arthur-Augusto-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnico em Engenharia de Edificações e Eletricista Predial com mais de 10 anos de experiência.
 
-Here are some ideas to get you started:
+Atualmente em transição para a área de Tecnologia, cursando Análise e Desenvolvimento de Sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivo Profissional
+
+Desenvolver soluções em Python voltadas para:
+
+- Automação predial
+- Orçamento técnico automatizado
+- Planejamento de obras
+- Eficiência energética
+- IoT aplicada à engenharia
+
+## 🛠 Tecnologias em desenvolvimento
+
+- Python
+- SQLite
+- Streamlit
+- HTML & CSS
+- Git & GitHub
+
+## 📌 Projetos
+
+- Sistema PDV em Python (Streamlit + SQLite)
+- Em desenvolvimento: Sistema de Orçamento Técnico Automatizado
