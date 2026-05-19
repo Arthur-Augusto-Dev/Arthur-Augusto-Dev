@@ -2,7 +2,7 @@
 
 Técnico em Engenharia e Projetista Eletricista Predial com mais de uma década de experiência em projetos e execução de sistemas de instalações elétricas prediais, manutenção e execução técnica de serviços. Utilizo minha experiência técnica para criar soluções de software precisas, focadas em automação e eficiência.
 
-Atualmente em transição para a área de Tecnologia, cursando Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento de soluções em Python aplicadas à engenharia.
+Atualmente em transição para a área de Tecnologia, cursando Análise e Desenvolvimento de Sistemas e participante do programa Hackers do Bem - iniciativa do Governo Federal em parceria com SENAI e Cisco, meu foco é em desenvolvimento de soluções em Python aplicadas à engenharia, web pages, aplicações descktop/mobile e cibersegurança.
 
 ## 🎯 Objetivo Profissional
 
