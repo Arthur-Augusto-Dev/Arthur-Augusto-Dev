@@ -22,11 +22,15 @@ Desenvolver sistemas voltados para:
 - Openpyxl
 - SQLite
 - Streamlit
+- pyQt6
+- FastAPI
 - HTML & CSS
 - Git & GitHub
 
 ## 📌 Projetos
 
 - Suite de Automação Python: RPA e Processamento de Dados.
-- Em desenvolvimento: Sistema PDV em Python (Streamlit + SQLite)
+- Sistema PDV em Python
+- Sites e leading page
+- Aplicações Desktop/mobile
 
