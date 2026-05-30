@@ -1,21 +1,22 @@
 # Arthur Augusto
 
-Técnico em Engenharia e Projetista Eletricista Predial com mais de uma década de experiência em projetos e execução de sistemas de instalações elétricas prediais, manutenção e execução técnica de serviços. Utilizo minha experiência técnica para criar soluções de software precisas, focadas em automação e eficiência.
-
-Atualmente em transição para a área de Tecnologia, cursando Análise e Desenvolvimento de Sistemas e participante do programa Hackers do Bem - iniciativa do Governo Federal em parceria com SENAI e Cisco, meu foco é em desenvolvimento de soluções em Python aplicadas à engenharia, web pages, aplicações descktop/mobile e cibersegurança.
+Profissional com sólida experiência técnica como Técnico em Engenharia e formação em andamento em Análise e
+Desenvolvimento de Sistemas (ADS). Especialista no desenvolvimento de sistemas modulares, automações
+inteligentes e interfaces utilizando Python, JavaScript e frameworks modernos. Experiência prática na concepção de
+arquiteturas robustas baseadas no padrão de separação de responsabilidades (camadas), manipulação de dados,
+criptografia e integração com bancos de dados relacionais e locais (SQLite). Foco estratégico na automação de
+processos operacionais e aplicação prática de IA (modelos LLM via APIs) para ganho de produtividade de negócios.
+Perfil altamente autodidata, orientado à resolução de problemas e com excelente comunicação para traduzir requisitos
+complexos de negócios em entregas funcionais e de fácil manutenção.
 
 ## 🎯 Objetivo Profissional
 
-Desenvolver sistemas voltados para:
-
-- Automação predial
-- Orçamento técnico automatizado
-- Planejamento e gestão de obras
-- Eficiência energética
-- IoT aplicada à engenharia
+Atuar no desenvolvimento e implantação de soluções tecnológicas integradas, com foco no desenvolvimento de sistemas de automação comercial, otimização de processsos analíticos e engenharia de software.
+Unir desenvolvimento backend em Python e Java à criação de interfaces web frontend modernas, intuitivas e responsivas (utilizando Streamlit, HTML, CSS e JavaScript), garantindo uma excelente experiência de usuário a alta eficiência operacioanl para o negócio e a transformação digital de empresas.
 
 ## 🛠 Tecnologias em desenvolvimento
 
+- Backend
 - Python
 - Pandas
 - PyautoGui
